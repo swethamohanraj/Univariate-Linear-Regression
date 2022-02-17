@@ -43,8 +43,10 @@ plt.scatter(X,Y)
 plt.plot(X,Y_pred,color="purple")
 plt.show()
 ```
-SAMPLE INPUT AND OUTPUT:
+## SAMPLE INPUT AND OUTPUT:
 Input:
+
+
 ![image](https://user-images.githubusercontent.com/94228215/154501946-7eb2e320-a75c-488b-a52b-df7160179164.png)
 
 
